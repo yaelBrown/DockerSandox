@@ -1,0 +1,22 @@
+Docker Mastery: with Kubernetes + Swarm from a Docker Captain
+  https://bah.udemy.com/course/docker-mastery/learn/lecture/16810938#overview
+  https://github.com/BretFisher/udemy-docker-mastery.git
+    Course Resources
+    "udemy-docker-mastery"
+  chat.bretfisher.com
+  dockermastery.slack.com
+
+  19.03 - Latest version of Docker desktop
+
+  Mobi-Dock - The whale in the Docker logo
+    @gordonTheTurtle - The real mascot of Docker.
+
+  Matrix from Hell - Breeds Compleixity.
+
+  https://landscape.cncf.io - Cloud Native Computing Foundation
+
+  Docker (est. 2013) -
+    Open Soruce
+    frees up task of maintenance and allows you to innovate.
+
+  Docker Editions
