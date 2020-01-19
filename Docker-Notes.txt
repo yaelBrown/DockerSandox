@@ -7,6 +7,7 @@ Docker Mastery: with Kubernetes + Swarm from a Docker Captain
   dockermastery.slack.com
 
   19.03 - Latest version of Docker desktop
+    Windows - https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe
 
   Mobi-Dock - The whale in the Docker logo
     @gordonTheTurtle - The real mascot of Docker.
@@ -15,8 +16,45 @@ Docker Mastery: with Kubernetes + Swarm from a Docker Captain
 
   https://landscape.cncf.io - Cloud Native Computing Foundation
 
+  cmder - lightweight windows command line emulator. (simiar to mingw64 but can be cmd, ps, or unix shells instead of just unix)
+
   Docker (est. 2013) -
     Open Soruce
     frees up task of maintenance and allows you to innovate.
 
-  Docker Editions
+  Edge = beta
+
+
+
+
+
+  Docker
+    store.docker.com
+
+    Docker moves fast, it matters how you install it.
+      3 different type of installs
+        Direct - Directly on local machine
+        Linux - Different per distro (don't use default package)
+        Mac/Win - Docker for windows/mac (don't use brew)
+        Cloud - for AWS/Azure/Google
+
+    Docker CE (Free)
+      Free open source toolkit
+
+    Docker EE (paid) - docker.com/pricing
+      Enterprise install
+
+    Docker Toolbox - windows 7/8/10
+
+    Docker-Machine - Creates virtual machines
+
+    Docker Quickstart Command line
+
+  Docker on Windows
+    Linux Containers and Windows Containers
+      Late 2016 Windows Containers started
+
+  Install docker and enable Hyper-V
+
+  docker version
+    Tells you version of doctor
